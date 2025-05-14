@@ -1,0 +1,162 @@
+[
+  {
+    "Country": "Switzerland",
+    "Overall Score": 84,
+    "Earning potential": 100,
+    "Career Advancement": 81,
+    "Employment Prospects": 85,
+    "Premium Education": 73,
+    "Economic Mobility": 92,
+    "High Livability": 75
+  },
+  {
+    "Country": "Singapore",
+    "Overall Score": 79,
+    "Earning potential": 100,
+    "Career Advancement": 61,
+    "Employment Prospects": 99,
+    "Premium Education": 58,
+    "Economic Mobility": 92,
+    "High Livability": 64
+  },
+  {
+    "Country": "USA",
+    "Overall Score": 78,
+    "Earning potential": 89,
+    "Career Advancement": 75,
+    "Employment Prospects": 85,
+    "Premium Education": 77,
+    "Economic Mobility": 75,
+    "High Livability": 66
+  },
+  {
+    "Country": "Australia",
+    "Overall Score": 76,
+    "Earning potential": 69,
+    "Career Advancement": 66,
+    "Employment Prospects": 77,
+    "Premium Education": 80,
+    "Economic Mobility": 92,
+    "High Livability": 74
+  },
+  {
+    "Country": "Canada",
+    "Overall Score": 73,
+    "Earning potential": 66,
+    "Career Advancement": 74,
+    "Employment Prospects": 80,
+    "Premium Education": 73,
+    "Economic Mobility": 75,
+    "High Livability": 73
+  },
+  {
+    "Country": "UK",
+    "Overall Score": 70,
+    "Earning potential": 62,
+    "Career Advancement": 58,
+    "Employment Prospects": 71,
+    "Premium Education": 89,
+    "Economic Mobility": 76,
+    "High Livability": 65
+  },
+  {
+    "Country": "UAE",
+    "Overall Score": 67,
+    "Earning potential": 78,
+    "Career Advancement": 51,
+    "Employment Prospects": 84,
+    "Premium Education": 65,
+    "Economic Mobility": 66,
+    "High Livability": 56
+  },
+  {
+    "Country": "New Zealand",
+    "Overall Score": 65,
+    "Earning potential": 61,
+    "Career Advancement": 54,
+    "Employment Prospects": 60,
+    "Premium Education": 55,
+    "Economic Mobility": 92,
+    "High Livability": 67
+  },
+  {
+    "Country": "Austria",
+    "Overall Score": 65,
+    "Earning potential": 58,
+    "Career Advancement": 56,
+    "Employment Prospects": 69,
+    "Premium Education": 50,
+    "Economic Mobility": 92,
+    "High Livability": 68
+  },
+  {
+    "Country": "Italy",
+    "Overall Score": 64,
+    "Earning potential": 53,
+    "Career Advancement": 61,
+    "Employment Prospects": 65,
+    "Premium Education": 52,
+    "Economic Mobility": 93,
+    "High Livability": 59
+  },
+  {
+    "Country": "Hong Kong",
+    "Overall Score": 61,
+    "Earning potential": 85,
+    "Career Advancement": 52,
+    "Employment Prospects": 81,
+    "Premium Education": 52,
+    "Economic Mobility": 50,
+    "High Livability": 47
+  },
+  {
+    "Country": "Latvia",
+    "Overall Score": 60,
+    "Earning potential": 73,
+    "Career Advancement": 59,
+    "Employment Prospects": 48,
+    "Premium Education": 38,
+    "Economic Mobility": 90,
+    "High Livability": 53
+  },
+  {
+    "Country": "Malta",
+    "Overall Score": 59,
+    "Earning potential": 44,
+    "Career Advancement": 62,
+    "Employment Prospects": 58,
+    "Premium Education": 40,
+    "Economic Mobility": 92,
+    "High Livability": 56
+  },
+  {
+    "Country": "Hungary",
+    "Overall Score": 58,
+    "Earning potential": 71,
+    "Career Advancement": 43,
+    "Employment Prospects": 49,
+    "Premium Education": 43,
+    "Economic Mobility": 91,
+    "High Livability": 52
+  },
+  {
+    "Country": "Greece",
+    "Overall Score": 56,
+    "Earning potential": 48,
+    "Career Advancement": 44,
+    "Employment Prospects": 59,
+    "Premium Education": 43,
+    "Economic Mobility": 92,
+    "High Livability": 53
+  },
+  {
+    "Country": "Portugal",
+    "Overall Score": 56,
+    "Earning potential": 41,
+    "Career Advancement": 50,
+    "Employment Prospects": 52,
+    "Premium Education": 44,
+    "Economic Mobility": 92,
+    "High Livability": 59
+  }
+]
