@@ -8,9 +8,9 @@ export default defineConfig({
   base:'/my-first-svelte-app/',
   resolve: {
     alias: {
-      "$components": path.resolve('/my-first-svelte-app/src/components'),
-      "$data": path.resolve("/my-first-svelte-app/src/data"),
-      "$routes": path.resolve("/my-first-svelte-app/src/routes"),
+      "$components": path.resolve('/src/components'),
+      "$data": path.resolve("/src/data"),
+      "$routes": path.resolve("/src/routes"),
     }
   }
 })

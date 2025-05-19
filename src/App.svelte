@@ -1,7 +1,7 @@
 <script>
   import BarChart from "$components/BarChart.svelte";
-  // import data from "$data/data.json";
-  // console.log(data);
+  import data from "$data/data.json";
+  console.log(data);
 
 
 </script>

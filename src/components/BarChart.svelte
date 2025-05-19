@@ -1,13 +1,13 @@
 <script>
+  import { onMount } from "svelte";
   import * as d3 from "d3";
-  import data from "/data.json";
-  console.log(data);
 
-  
+
+  let data = [];
   let selectedMeasure = "Score"; 
 
   const fetchData = async () => {
-      const response = await fetch("$data/data.json");
+      const response = await fetch("data.json");
       data = await response.json();
       updateChart();
   };
